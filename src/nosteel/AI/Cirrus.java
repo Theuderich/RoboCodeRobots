@@ -81,8 +81,8 @@ public class Cirrus {
         {
             radar.setActiveIndex( Radar.INDEX_KeepTrack );
             
-//            move.setActiveIndex(Movement.INDEX_SerpentineApproach);
-            move.setActiveIndex(Movement.INDEX_AntiG);
+            move.setActiveIndex(Movement.INDEX_SerpentineApproach);
+//            move.setActiveIndex(Movement.INDEX_AntiG);
 //            move.setActiveIndex(Movement.INDEX_Sidestep);
 
             aiming.setActiveIndex( Aiming.INDEX_PatterMatch );
